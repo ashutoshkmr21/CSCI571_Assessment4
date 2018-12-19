@@ -1,0 +1,55 @@
+{
+  "Mainline": {
+    "Table": {
+      "Header": {
+        "Data": [
+          "HomePage 123",
+          "Company X",
+          "Number of Ships",
+          "HQ / Info &&",
+          "Market share",
+          "Logo"
+        ]
+      },
+      "Row" : [
+        {
+          "HomePage": "https://www.maersk.com/",
+          "Company": "Maersk Line",
+          "Ships": "763",
+          "Hubs": {
+            "Hub": [
+              "Copenhagen, Denmark",
+              "Maersk Line is the global container division and the largest operating unit of the Maersk Group, a Danish business conglomerate."
+            ]
+          },
+          "Market": "18.0%",
+          "Logo": "http://csci571.com/hw/hw4/Maersk_shipping_container.jpeg"
+        },
+        {
+          "HomePage": "",
+          "Company": "hi",
+          "Ships": "",
+          "Hubs": {
+            "Hub": [
+              "This is single Hub"]
+          },
+          "Market": "",
+          "Logo": ""
+        },
+        {
+          "HomePage": "https://www.msc.com/",
+          "Company": "Mediterranean Shipping Company",
+          "Ships": "469",
+          "Hubs": {
+            "Hub": [
+              "Geneva, Switzerland",
+              "The Geneva-headquartered company operates in all major ports of the world. MSC's most important port is Antwerp in Belgium. MSC Cruises is a division of the company focused on holiday cruises."
+            ]
+          },
+          "Market": "14.6%",
+          "Logo": "http://csci571.com/hw/hw4/MSC_container.jpeg"
+        }
+      ]
+    }
+  }
+}
